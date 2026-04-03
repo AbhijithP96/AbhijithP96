@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hi, I'm Abhijith 👋
+
+AI/ML Engineer specializing in production LLM systems, RAG pipelines and Computer Vision.
+
+## 🔧 Tech Stack
+
+Python · PyTorch · Tensorflow-Lite · FastAPI · Langchain · Docker · OpenCV 
+
+## 🚀Featured Projects
+
+- [Self-RAG Chat System](https://github.com/AbhijithP96/self-rag)
+- [YOLO Head Detection](https://github.com/AbhijithP96/yolo-head-detection)
+- [LaTeX OCR](https://github.com/AbhijithP96/latex-ocr)
+
+## 📫Connect
+[LinkedIn](www.linkedin.com/in/abhijith-premraj-37246816b) · premraj.abhijith@gmail.com
 
 <!--
 **AbhijithP96/AbhijithP96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
