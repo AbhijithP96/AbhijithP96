@@ -8,8 +8,9 @@ Python · PyTorch · Tensorflow-Lite · FastAPI · Langchain · Docker · OpenCV
 
 ## 🚀Featured Projects
 
-- [Self-RAG Chat System](https://github.com/AbhijithP96/self-rag)
 - [YOLO Head Detection](https://github.com/AbhijithP96/yolo-head-detection)
+- [Self-RAG Chat System](https://github.com/AbhijithP96/self-rag)
+- [MobileNet-UNet](https://github.com/AbhijithP96/mobile_unet)
 - [LaTeX OCR](https://github.com/AbhijithP96/latex-ocr)
 
 ## 📫Connect
