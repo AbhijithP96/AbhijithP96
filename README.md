@@ -1,6 +1,6 @@
 ## Hi, I'm Abhijith 👋
 
-AI/ML Engineer specializing in production LLM systems, RAG pipelines and Computer Vision.
+AI/ML Engineer specializing in production LLM systems, and Computer Vision.
 
 ## 🔧 Tech Stack
 
