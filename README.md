@@ -1,7 +1,5 @@
-# Hi, I'm Abhijith 👋
-
 # 💫 About Me:
-Computer Vision researcher and engineer with industry experience at Carl Zeiss Meditec, specialising in vision foundation models, geometric deep learning, and transformer-based pose estimation. Currently publishing research on constrained attention for pose estimation.
+Hi, I'm Abhijith 👋. I am a Computer Vision researcher and engineer with industry experience at Carl Zeiss Meditec, specialising in vision foundation models, geometric deep learning, and transformer-based pose estimation. Currently publishing research on constrained attention for pose estimation.
 
 
 ## 🌐 Socials:
@@ -21,6 +19,6 @@ Computer Vision researcher and engineer with industry experience at Carl Zeiss M
 ![](https://github-contributor-stats.vercel.app/api?username=AbhijithP96&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AbhijithP96&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=AbhijithP96&icon=0&color=000000)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
